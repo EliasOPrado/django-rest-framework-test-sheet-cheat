@@ -1,4 +1,4 @@
-# django-rest-framework-sheet-cheat
+# django-rest-framework-test-sheet-cheat
 
 
 Methods and keywords for testing DRF
